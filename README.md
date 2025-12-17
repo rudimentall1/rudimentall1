@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rinat%20%7C%20Web3%20Node%20Runner&fontSize=36&fontAlignY=35" />
+</p>
+
 # 👋 Привет, я Rinat
 
 ## 🚀 Blockchain / Web3 / Nodes / Crypto
@@ -11,6 +15,13 @@
 ---
 
 ## 🛠️ Технологии и инструменты
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Node%20Runner-black?logo=linux" />
+  <img src="https://img.shields.io/badge/Docker-Infrastructure-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/Solidity-Smart%20Contracts-gray?logo=ethereum" />
+  <img src="https://img.shields.io/badge/Web3-Crypto-purple?logo=ethereum" />
+</p>
 
 **Blockchain / Nodes:**
 
@@ -26,6 +37,20 @@
 
 ---
 
+## 🧱 Node Runner / Validator
+
+* 🟢 Active Node Runner (Mainnet / Testnet)
+* ⚙️ Linux VPS / Dedicated servers
+* 📡 Monitoring, alerts, auto-restart
+* 🔐 Keys, wallets, security best practices
+
+**Работал с проектами:**
+
+* Nexus · Arcium · Ritual · Nillion
+* EigenLayer · Celestia · ZK / L2 сети
+
+---
+
 ## 🔥 Топовые навыки
 
 * Установка и оптимизация нод на Linux
@@ -38,7 +63,17 @@
 
 ## 📊 Моя статистика GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rudimentall1\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudimentall1&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudimentall1&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rudimentall1/rudimentall1/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudimentall1\&layout=compact\&theme=radical)
 
