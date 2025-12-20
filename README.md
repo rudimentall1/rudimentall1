@@ -61,24 +61,6 @@
 
 ---
 
-## 📊 Моя статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudimentall1&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudimentall1&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/rudimentall1/rudimentall1/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudimentall1\&layout=compact\&theme=radical)
-
----
-
 ## 🌐 Контакты
 
 * Telegram: **cyber_sv**
