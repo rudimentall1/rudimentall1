@@ -64,7 +64,7 @@
 ## 🌐 Контакты
 
 * Telegram: **cyber_sv**
-* X / Twitter: **overline2024**
+* X / Twitter: **[clubs_voice](https://x.com/clubs_voice)**
 * Email: **[tonkostir@gmail.com](mailto:tonkostir@gmail.com)**
 
 ---
