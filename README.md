@@ -1,82 +1,96 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rinat%20%7C%20Web3%20Node%20Runner&fontSize=36&fontAlignY=35" />
-</p>
+# Rinat
 
-# 👋 Привет, я Rinat
+**Blockchain Infrastructure Engineer · Web3 Developer · AI Agent Systems**
 
-## 🚀 Blockchain / Web3 / Nodes / Crypto
+I build and operate blockchain infrastructure, Web3 automation, and security-oriented systems. My work combines software engineering with hands-on infrastructure: Linux, VPS, Docker, RPC services, node operations, monitoring, and automation.
 
-* В крипте с **2017 года**
-* Поднимаю **ноды перспективных проектов**
-* Занимаюсь **тестированием блокчейн‑сетей**, мониторингом, сетапом инфраструктуры
-* Разрабатываю и деплою смарт‑контракты, автоматизацию, мониторинг аномалий
+## Focus
+
+- Blockchain node deployment and maintenance
+- Web3 infrastructure and RPC integration
+- Validator and testnet/mainnet operations
+- Python backend development and automation
+- AI agents and agent-oriented infrastructure
+- Wallet, transaction, and contract risk analysis
+- Monitoring, alerting, and operational tooling
+- Smart contracts and EVM development
+
+## Technical Stack
+
+**Languages**
+
+Python · Bash · Solidity · JavaScript / TypeScript
+
+**Backend and Infrastructure**
+
+FastAPI · REST APIs · Linux · Ubuntu · Docker · systemd · Nginx · Git · CI/CD
+
+**Blockchain / Web3**
+
+EVM · Ethereum · L2 networks · RPC / JSON-RPC · Web3.py · Foundry · Hardhat · Smart Contracts
+
+**Infrastructure Operations**
+
+VPS and dedicated infrastructure · Node deployment · Service management · Monitoring · Logs · Automated recovery · Network configuration
+
+## Selected Work
+
+### Agentic Wallet Guardian
+
+A self-hosted decision engine designed to sit between an AI agent and blockchain execution.
+
+It evaluates proposed actions and produces an explainable **ALLOW / WARN / BLOCK** decision before signing or broadcasting a transaction.
+
+Key components include:
+
+- Wallet, token, and contract intelligence
+- Policy and reputation engines
+- Risk fusion and explainable decisions
+- Local threat intelligence
+- Pre-execution transaction simulation
+- REST API
+- MCP server for agent frameworks
+- SQLite persistence and configurable data providers
+- Automated test suite and CI
+
+Repository: [agentic-wallet-guardian-v3](https://github.com/rudimentall1/agentic-wallet-guardian-v3)
+
+### Agent Guardrail
+
+Security-oriented infrastructure for controlling and evaluating AI-agent actions, with a focus on practical guardrails and integration with autonomous workflows.
+
+Repository: [agent-guardrail](https://github.com/rudimentall1/agent-guardrail)
+
+### Blockchain Node Infrastructure
+
+A collection of deployment and operational work around blockchain networks and node infrastructure, including projects involving Ritual, Nexus, Arcium, Tashi, OpenRouter, Pipe, Blockcast, Drosera, Stable, Titan, and Unichain.
+
+Repository: [blockchain-nodes](https://github.com/rudimentall1/blockchain-nodes)
+
+## Engineering Approach
+
+I prefer practical systems over prototypes that only work in a demo environment.
+
+My priorities are:
+
+- Reproducible deployments
+- Clear architecture and separation of concerns
+- Observable services and useful logs
+- Automation instead of repetitive manual operations
+- Explicit handling of failure and unavailable data
+- Security-conscious defaults
+- Documentation that makes a project deployable by another engineer
+
+## Areas of Interest
+
+Blockchain infrastructure · Web3 · AI agents · Agent security · Autonomous systems · DeFi infrastructure · Developer tooling · Distributed systems · Automation
+
+## Contact
+
+- Telegram: [@cyber_sv](https://t.me/cyber_sv)
+- X: [@clubs_voice](https://x.com/clubs_voice)
+- Email: [tonkostir@gmail.com](mailto:tonkostir@gmail.com)
 
 ---
-## 🛡️ Featured Project — Agentic Wallet Guardian
 
-Self-hosted decision engine между AI-агентом и блокчейном: агент отправляет
-предполагаемое действие, Guardian возвращает объяснимое **ALLOW / WARN / BLOCK**
-до подписания транзакции.
-
-* Реальные ончейн-источники данных (RPC, Blockscout, DexScreener) за подключаемым интерфейсом провайдеров — без привязки к одному вендору
-* Локальные списки угроз — данные о проверяемых кошельках никогда не уходят на сторону
-* 53 теста, CI на каждый пуш, MIT-лицензия
-* REST API **и** MCP-сервер — агентские фреймворки могут звать напрямую
-
-**[→ agentic-wallet-guardian-v3](https://github.com/rudimentall1/agentic-wallet-guardian-v3)**
-
----
-## 🛠️ Технологии и инструменты
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Node%20Runner-black?logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-Infrastructure-blue?logo=docker" />
-  <img src="https://img.shields.io/badge/Solidity-Smart%20Contracts-gray?logo=ethereum" />
-  <img src="https://img.shields.io/badge/Web3-Crypto-purple?logo=ethereum" />
-</p>
-
-**Blockchain / Nodes:**
-
-* Ethereum, Geth, Nethermind, Erigon
-* Arbitrum, Optimism, ZK‑L2, Celestia, EigenLayer
-* Arcium, Ritual, Nillion, Nexus, IronFish и др.
-
-**Dev / Tools:**
-
-* Solidity · Foundry · Hardhat
-* Python · Bash · Docker · Systemd
-* RPC/WS слушатели, мониторинг, alert‑боты
-
----
-
-## 🧱 Node Runner / Validator
-
-* 🟢 Active Node Runner (Mainnet / Testnet)
-* ⚙️ Linux VPS / Dedicated servers
-* 📡 Monitoring, alerts, auto-restart
-* 🔐 Keys, wallets, security best practices
-
-**Работал с проектами:**
-
-* Nexus · Arcium · Ritual · Nillion
-* EigenLayer · Celestia · ZK / L2 сети
-
----
-
-## 🔥 Топовые навыки
-
-* Установка и оптимизация нод на Linux
-* Автоматизация процессов (cron, bash‑скрипты)
-* Поиск багов и аномалий в сетях
-* Работа с контрактами (деплой, тесты, аудит базового уровня)
-* Архитектура сетевых конфигураций
-
----
-
-## 🌐 Контакты
-
-* Telegram: **cyber_sv**
-* X / Twitter: **[clubs_voice](https://x.com/clubs_voice)**
-* Email: **[tonkostir@gmail.com](mailto:tonkostir@gmail.com)**
-
----
+Open to Web3 infrastructure, blockchain engineering, automation, AI-agent systems, and related technical projects.
